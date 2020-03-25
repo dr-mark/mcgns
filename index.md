@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Middelton Cheney Good Neighbour Scheme
 
-You can use the [editor on GitHub](https://github.com/dr-mark/mcgns/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Need help? Call us on 07818 475 982
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are a Middleton Cheney resident who is elderly, unwell, lonely, disabled, or facing a crisis and do not have family or a good neighbour, we may be able to help.
 
-### Markdown
+## Coronavirus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here at the Middleton Cheney Good Neighbour Scheme the wellbeing of our volunteers and clients is our top priority. We are taking this unprecedented situation very seriously and giving updated advice to our volunteers, based on government and Public Health England advice, but also taking particular account of our clients' vulnerability.
 
-```markdown
-Syntax highlighted code block
+Because of the need for social distancing we cannot currently help with tasks like gardening and help around the home.
 
-# Header 1
-## Header 2
-### Header 3
+## About the scheme
 
-- Bulleted
-- List
+The Middleton Cheney Good Neighbour Scheme is run entirely by volunteers. Our phone line is manned between 9am and 1pm every day of the year. If you need our help, please call 07818 475 982 to speak to one of our duty officers.
 
-1. Numbered
-2. List
+## Our Volunteers
 
-**Bold** and _Italic_ and `Code` text
+We always need volunteers to help with the following roles and activities:
 
-[Link](url) and ![Image](src)
-```
+### Duty Officer
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+to use the telephone in your own home for one day per month to receive requests from clients and find suitable volunteers - training - given and we pay for the calls you make.
 
-### Jekyll Themes
+### Regular Shopping
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dr-mark/mcgns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+shop, pick up prescriptions or relieve carers for short periods.
 
-### Support or Contact
+### Practical Help
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+heavier jobs around the home - moving furniture, minor repairs, decorating and gardening.
+
+### Befriending
+
+visit a lonely person on a regular basis.
+
+## Become a volunteer
+
+To learn how you can become a volunteer, or to find out more about other ways you can help, please call us on 07818 475 982 between 9am and 1pm any day of the year.
+
+Alternatively, you can submit join our [Facebook Group](https://www.facebook.com/groups/882856538833718/) to get further details.
+
+## GDPR - Data Protection Privacy Notice
+
+We take our data privacy responsibilities very seriously at Middleton Cheney Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our Privacy Notice, or contact our Data Controller by email: gdpr@mcgns.org.uk.
